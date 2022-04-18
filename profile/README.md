@@ -6,7 +6,7 @@
 
 Tephida - this is a multi-user social engine
 
-## Learning VII Engine
+## Learning Tephida
 
 [Documentation](https://tephida.github.io/docs/)
 
