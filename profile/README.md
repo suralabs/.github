@@ -1,10 +1,10 @@
-<p align="center"><a href="https://laravel.com" target="_blank">
+<p align="center"><a href="#">
 <img src="https://avatars.githubusercontent.com/u/100520345?s=200&v=4" width="200">
 </a></p>
 
-## About VII Engine
+## About Tephida
 
-VII Engine - social network
+Tephida - this is a multi-user social engine
 
 ## Learning VII Engine
 
