@@ -8,5 +8,5 @@ VII Engine - social network
 
 ## Learning VII Engine
 
-[Documentation](tephida.github.io/docs/)
+[Documentation](https://tephida.github.io/docs/)
 
