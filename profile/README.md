@@ -12,10 +12,14 @@ Sura is accessible, powerful, and provides tools required for large, robust appl
 
 #### Backend
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sura-framework&repo=sura)](https://github.com/Sura-framework/sura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=sura)](https://github.com/suralabs/sura)
 
 #### Frontend
 
 coming soon...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sura-framework&repo=app)](https://github.com/Sura-framework/app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=app)](https://github.com/suralabs/app)
+
+#### Fire UI VUE 3
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=fire-ui)](https://github.com/suralabs/fire-ui)
