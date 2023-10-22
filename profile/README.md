@@ -17,7 +17,3 @@ Sura is accessible, powerful, and provides tools required for large, robust appl
 #### Frontend
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=app)](https://github.com/suralabs/app)
-
-#### Fire UI VUE 3
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=fire-ui)](https://github.com/suralabs/fire-ui)
