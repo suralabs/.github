@@ -17,3 +17,7 @@ Sura is accessible, powerful, and provides tools required for large, robust appl
 #### Frontend
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=app)](https://github.com/suralabs/app)
+
+#### VancedVue
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suralabs&repo=vancedvue)](https://github.com/suralabs/vancedvue)
